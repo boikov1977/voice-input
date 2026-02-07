@@ -57,6 +57,6 @@ Voice Input is an AI-based application written in Python that converts spoken au
 
 ![img.png](src/images/audio_output.png)
 
-This application uses the GigaChad model:
+This application uses the GigaAM-v3 model:
 
 https://huggingface.co/ai-sage/GigaAM-v3https://huggingface.co/ai-sage/GigaAM-v3
