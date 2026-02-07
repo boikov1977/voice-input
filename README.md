@@ -26,7 +26,7 @@ ___
 ### Результат распознавания
 ![Результат распознавания](src/images/audio_output.png)
 
-В приложении используется модель GigaChad 
+В приложении используется модель GigaAM-v3 
 https://huggingface.co/ai-sage/GigaAM-v3https://huggingface.co/ai-sage/GigaAM-v3
 
 
