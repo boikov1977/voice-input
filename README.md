@@ -27,7 +27,7 @@ ___
 ![Результат распознавания](src/images/audio_output.png)
 
 В приложении используется модель GigaAM-v3 
-https://huggingface.co/ai-sage/GigaAM-v3https://huggingface.co/ai-sage/GigaAM-v3
+https://huggingface.co/ai-sage/GigaAM-v3
 
 
 ___
@@ -59,4 +59,4 @@ Voice Input is an AI-based application written in Python that converts spoken au
 
 This application uses the GigaAM-v3 model:
 
-https://huggingface.co/ai-sage/GigaAM-v3https://huggingface.co/ai-sage/GigaAM-v3
+https://huggingface.co/ai-sage/GigaAM-v3
