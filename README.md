@@ -1,5 +1,36 @@
 ## Voice Input
 ___
+### Что это?
+
+**Voice Input** — это приложение на базе ИИ, написанное на Python, которое преобразует голосовую речь в текст.
+
+## Установка
+
+1. Скачайте актуальный релиз на странице GitHub Releases:  
+   👉 https://github.com/boikov1977/voice-input/releases/tag/v1.0.0
+2. Распакуйте содержимое архива `GigaAM-v3.zip` в ту же папку, где находится файл `voice-input.exe`.
+3. Запустите `voice-input.exe`.
+
+## Как пользоваться
+
+1. Нажмите кнопку с микрофоном, чтобы начать запись.
+2. Произнесите текст.
+3. По завершении нажмите кнопку с микрофоном ещё раз, чтобы остановить запись.
+4. Скопируйте распознанный текст из поля вывода.
+
+## Скриншоты
+
+### Ввод аудио
+![Ввод аудио](src/images/audio_input.png)
+
+### Результат распознавания
+![Результат распознавания](src/images/audio_output.png)
+
+В приложении используется модель GigaChad 
+https://huggingface.co/ai-sage/GigaAM-v3https://huggingface.co/ai-sage/GigaAM-v3
+
+
+___
 ### What is this?
 Voice Input is an AI-based application written in Python that converts spoken audio into text.
 
@@ -26,4 +57,6 @@ Voice Input is an AI-based application written in Python that converts spoken au
 
 ![img.png](src/images/audio_output.png)
 
+This application uses the GigaChad model:
 
+https://huggingface.co/ai-sage/GigaAM-v3https://huggingface.co/ai-sage/GigaAM-v3
